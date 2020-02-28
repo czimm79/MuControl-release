@@ -1,0 +1,17 @@
+# Ignore bytecode cache folder
+__pycache__/
+threads/__pycache__/
+
+# Ignore .idea folder for PyCharm
+.idea/
+
+# Ignore .spyproject folder for Spyder IDE
+.spyproject/
+
+# Ignore scratch
+scratch/
+
+# Ignore doc
+doc/
+
+mucontrolPAPER/
