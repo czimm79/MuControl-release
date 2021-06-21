@@ -1,10 +1,12 @@
-# MuControl
+# MuControl-release
+
+## Warning! This repository is frozen in time for the publication listed below. For the up to date repo, please click [here](https://github.com/czimm79/MuControl)
 
 This repository contains MuControl, an open-source Python application intended for the manipulation and monitoring of electric signals for 3D electromagnet systems. This software was developed as part of the publication
 
 > **An experimental design for the control and assembly of superparamagnetic microwheels** <br/>
 > E.J. Roth, C.J. Zimmermann, D. Disharoon. T.O. Tasci, D.W.M. Marr, K.B. Neeves <br/>
-> In *Review of Scientific Instruments* (to be submitted)
+> *Review of Scientific Instruments* (2020)
 
 The goal of this app is to:
 
